@@ -106,7 +106,7 @@ a:hover {
 
 .background {
    /* Delete background class from <body> for a vanilla style */
-   background: url(https://farm3.staticflickr.com/2950/15308537118_f3e42a559b_b.jpg) top left no-repeat black;
+   background: url(https://farm3.staticflickr.com/2950/15308537118_f3e42a559b_b.jpg) top left no-repeat #050706;
 }
 
 img.avatar {
